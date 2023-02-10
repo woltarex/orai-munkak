@@ -1,0 +1,24 @@
+Szövegkohézió
+Nyelvtani kapcsolóelemek:
+=A mondatok közötti összefüggést biztosítják.
+
+a, Szófajok:
+    -kötőszók: meghatározzák a tartalmi-logikai kapcsolatot (pl. de, ugyanis, azonban)
+    -névelők (a/az/egy)
+        -első említéskor: határozatlan névelő (egy)
+        -többedszeri említéskor: határozott névelő (a/az) -> visszautal
+    -névmások és névmási eredetű határozószók -> utalnak vagy helyettesítik a kulcsszavakat
+    (pl. ő, tőle, vele; olyan akkor, ott...)
+        -Az utalás iránya szerint:
+        -> visszautaló (ANAFORA) (pl. Tamás <- ő)
+        -> rámutató (DEIXIS) (pl. EZ egy váza)
+        -> előremutató (KATAFORA) (pl. tudtam, hogy AZ lesz hogy...)
+
+b, Toldalékok:
+    -igei személyragok
+    -tárgyas ragozás (szeretEM)
+    -birtokos személyjel (macskáJA)
+    -időjelek/tárgyrag/stb
+
+c, Nyelvtani-szerkezeti hiány:
+    -a már elhangzott elem elhagyásával is visszautalhatunk az alanyra/tárgyra (ebben az igei személyragok is segítenek)

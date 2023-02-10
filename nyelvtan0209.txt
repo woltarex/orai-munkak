@@ -1,0 +1,35 @@
+17. óra
+Szövegtípusok
+
+-többféle osztályozás lehetséges:
+    1, A kommunikáció célja szerint:
+        E: elbeszélő -> esemény,történet
+        L: leíró -> helyszín, személy, tárgy, folyamat
+        M: meggyőző -> a befogadó befolyásolja, cselekvésre késztetés
+
+    2, Az előkészület szerint:
+        megtervezett
+        spontán
+    
+    3, A résztvevők száma szerint:
+        monologikus -> egyirányú
+        dialogikus -> kétirányú
+    
+    4, Hatáskör szerint:
+        nyilvános
+        magán jellegű/privát
+    
+    5, A közvetítő közeg szerint:
+        szóbeli
+        online
+        írásbeli
+    
+    6, Stílusrétegek szerint:
+        1, társadalmi stílus
+        2, publicisztikai stílus
+        3, tudományos stílus
+        4, szónoki stílus
+        5, hivatalos stílus
+        6, szépirodalmi stílus
+
+        

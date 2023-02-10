@@ -1,0 +1,78 @@
+OPEN:
+    toy car
+    washing machine
+    video game
+    computer game
+    drivers licence
+
+-:
+    mother-in-law
+    self-confidence
+
+CLOSED:
+    carwash
+    airport
+    cheeseburger
+    birthday
+    armpit
+
+
+
+cash machine
+boarding pass
+parking fine
+seat belt
+traffic jam
+tennis court
+public house
+ringtone
+sci-fi
+state school
+ground floor / garage level
+pendrive
+
+
+daydream
+dish washer
+heartache
+home alone
+honeymoon
+horse ride
+jelly fish
+left-handed
+light saber
+sidestick
+sidecar
+eyeball
+egg-nog
+bed sheet
+bill gates
+bulldog
+softball
+crosscheck
+hand wash
+pushback tug
+rattle snake
+toad mario
+
+bag
+ball
+heartbeat
+boardingboat
+daybreak
+burns
+bulldog
+jellyfish
+head
+house
+eyelid
+honeymoon
+overs
+power
+road
+rattlesnake
+stool
+time
+walk
+dishwasher
+homework

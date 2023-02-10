@@ -1,0 +1,17 @@
+Szövegkohézió (A szövegösszetartó erő)
+-> Nyelvtani kapcsoló elemek
+-> Jelentésbeli kapcsolóelemek <====
+
+A, A bekezdésekben:
+    - szavak, amelyek ugyanarra a valóságdarabra vonatkoznak
+        pl.: szóismétlés; rokon értelmű szavak
+    - szavak amelyek logikai kapcsolatban állnak egymással -> meezőösszegüggésben állnak (pl.: arc -> szem, száj, ...)
+    - képzettársításon alapuló szavak (pl.: hasonlat, metafora)
+    - jelentésbeli hiány, amely a beszélő és a hallgatók közös valóságismeretén alapul
+    - a mondatok közötti logikai viszonyt meghatározó szavak - kötőszók, utalószók, módosítószók
+    - tagolás: a már elhangzott ismeret (téma) és az új információ (réma) váltakozása
+
+B, A szöveg egészében megjelenő jelentésbeli kapcsolóelemek:
+    - cím
+    - kulcsszavak
+    - fókuszmondat + tételmondatok

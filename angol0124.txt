@@ -1,0 +1,12 @@
+telephone
+speakers
+headphones
+switch
+keyboard
+adapter
+memory stick
+plug
+cable
+socket
+mouse
+remote control

@@ -1,0 +1,11 @@
+A nő aki Joeval táncol egy híres énekes
+The woman, who is dancing with Joe, is a famous singer
+
+A nő akivel Joe táncol egy híres énekes
+The women who's Joe dancing with is a famous singer
+
+Taylor Swift aki Joeval táncol egy híres énekes
+Taylor Swift, who is dancing with Joe, is a famous singer
+
+Taylor Swift akivel Joe táncol egy híres énekes
+Taylor Swift, who Joe is dancing with, is a famous singer
