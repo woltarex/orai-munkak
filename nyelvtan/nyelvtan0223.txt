@@ -1,0 +1,14 @@
+19. óra
+
+1.2. A leíró szövegtípus:
+    -tárgyat, személyt, helyszínt, jelenséget vagy folyamatot ír le/mutat be
+        pl. definíció, tájleírás, képleírás, jellemzés, stb.
+    Jellemzői:
+        -felépítés: általános -> részletek
+        -logikus előrehaladás (pl. távolról -> közelre; külső tulajdonságok -> belső jellemvonások)
+        -szemléletes, érzékletes megfogalmazás
+        ! állóképszerű leírás: főnevek, melléknevek túlsúlyban
+            -kevés ige;
+            -jelen idő használata
+        -tárgyilagos, objektyv hangnem
+        -lehet benne minősítés, értékelés; hangulatok, benyomások megfogalmazása
