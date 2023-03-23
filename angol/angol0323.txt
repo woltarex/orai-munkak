@@ -1,0 +1,16 @@
+Write an email of 80-100 words to Liam in which you
+    -say which tour you are most interested in and why,
+    -ask about the lenght of your chosen tour,
+    -ask about the time your chosen tour starts and how much it costs,
+Begin your email like this:
+    Hi Liam,
+
+    Hi Liam, thanks for your email! I really appreciate your invitation.
+    I think I am most interested in that walking tour of Hadrian's wall. I'm a
+big fan of the Roman history and culture so this is an easy choice for me.
+    Before I plan the trip to the city I would like to know how long the
+trip will be.
+    To be honest I am a bit worried about the price so it would be nice if you
+could tell me the price of the this tour and when it will start so I can start
+preplanning my journey to the city.
+    Really looking forward to hearing from you soon! Best regards, Bence.
