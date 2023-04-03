@@ -1,0 +1,19 @@
+Csúcshatás: csúccsal rendelkező testek könnyen elveszítik a töltésüket
+Ezek környékén gyakran létrejön az elektromos kisülés
+Ha a térerősség meghalad egy bizonyos értéket szikrakisülés jön létre (normál állapotban: 10^6 V/m)
+Csúcsok szívóhatása: példa: semleges vezetőböl pozitív töltés hatására negatív töltést nyer, ennek egy része távozik az elektromos széllel
+    -> eredetileg semleges vezetőn pozitív töltés marad vissza
+    -> tapasztalat: a csúcs elszívta a megosztó töltés egy részét
+    -> felhasználás: villámhárító, Van de Graaff-generátor
+        -> VdG-generátor: gumi szalag kifeszítve
+                          felső görgő műanyag
+                          alsó fém
+                          felső görgőröl leváló szalag negatív töltésű lesz
+                          az alsó gömbről leváló pedig pozitív
+                          a felső gömbnél összegyűlő pozitav töltést egy csúcshatás elvén működő kefe összegyűjti
+                          ez a töltés egy üreges fém gömbre továbbítódik
+                          belül nincs egyensúlyi helyzet, tehát a töltés a külső felületre áramlik
+                          az alsó gömbről egy másik kefe elvonja a negatív töltést, és egy másik kis gömbre juttatja
+                          a két gömb között elegendő feszültség esetén szikrakisülés jön létre
+
+https://hu.wikipedia.org/wiki/Van_de_Graaff-gener%C3%A1tor#/media/F%C3%A1jl:Van_de_Graaff_generator.svg
