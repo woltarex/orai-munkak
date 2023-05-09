@@ -1,0 +1,34 @@
+Teenagers:
+overwhelmed -
+rebellious -
+funny -
+emotional -
+lazy -
+open-minded
+hungry
+irresponsible
+self-centered
+young 
+exhausted -
+energetic -
+adventurous
+curious -
+impatient -
+clumsy
+moody -
+stubborn
+
+Elderly:
+rude
+wise
+emotional
+moody
+grumpy
+impatient
+narrow-minded
+conservative
+experienced
+entitled
+old-style
+aging
+stubborn

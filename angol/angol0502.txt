@@ -1,0 +1,77 @@
+Footwear:
+shoes
+socks
+boots
+trainers
+sneakers
+flipflops
+slides
+heels
+sandals
+plimsolls
+dad shoes
+platform shoes
+moccasins
+slippers
+watershoes
+skates
+
+Tops:
+t-shirt
+shirt
+tank top
+crop top
+bra
+bikini
+blouse
+blazer
+coat
+pullover
+sweatshirt
+jumper
+hoodie
+waist warmer
+jersey
+corset
+long sleeves
+turtle neck
+v-neck
+tracksuit
+shapewear
+body
+vest
+jacket
+
+Bottom:
+pants
+skirt
+jeans
+shorts
+dress
+trousers
+cargopants
+underwear
+panties
+nickers
+boxers shorts 
+leggings
+low/high waisted
+stockings
+tights
+jeggings
+jumpsuit
+overalls
+
+Accessories:
+rings
+bracelets
+belts
+bag
+anklets
+sunglasses
+scarfs
+gloves
+hairclips
+earrings
+watch
+ties

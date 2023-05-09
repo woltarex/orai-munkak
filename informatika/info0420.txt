@@ -1,5 +1,5 @@
-1, Kérd be és tárold változóban, hogy hány gyerek rendelkezik cukorkával.
-2, Kérd be és tárold listában, hogy a gyerekeknek (sorban) hány cukorkájuk van fejenként.
+1, Kérd be és tárold listában, a gyerekek nevét.
+2, Tárold listában hogy a gyerekeknek mennyi cukorkája van véletlenszerűen 1 és 9 között.
 3, Kérd be és tárold változóban az extra cukorkák számát.
 4, Írd ki, hogy melyik gyereknek volt a legtöbb cukorkája és mennyi.
-5, Írd ki, hogy ha az extra cukorkát hozzáadnánk egyesével minden gyerek cukorkájához, akkor nekik lesz-e a legtöbb. (Lista; Igaz/Hamis)
+5, Írd ki, hogy ha az extra cukorkát hozzáadnánk egyesével minden gyerek cukorkájához, akkor nekik lenne-e a legtöbb. (Lista; Igaz/Hamis)

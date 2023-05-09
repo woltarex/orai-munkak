@@ -1,0 +1,15 @@
+Szövegtípusok stílus rétegek szerint:
+A: társalgási
+B: tudományos
+C: publicisztikai
+D: hivatalos
+E: szónoki
+F: szépirodalmi
+
+Társalgási stílusú szövegek
+    -magánéleti (zömmel)
+        JELLEMZŐI:
+            -rögtönzött, improvizatórikus, spontán
+            -kétirányú, közvetlen
+            -szóbeli
+            -cél: véleménynyilvánítás, érzelemkifejezés, meggyőzés, infó-csere
