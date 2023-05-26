@@ -8,8 +8,32 @@ F: szépirodalmi
 
 Társalgási stílusú szövegek
     -magánéleti (zömmel)
-        JELLEMZŐI:
-            -rögtönzött, improvizatórikus, spontán
-            -kétirányú, közvetlen
-            -szóbeli
-            -cél: véleménynyilvánítás, érzelemkifejezés, meggyőzés, infó-csere
+    JELLEMZŐI:
+        -rögtönzött, improvizatórikus, spontán
+        -kétirányú, közvetlen
+        -szóbeli
+        -cél: véleménynyilvánítás, érzelemkifejezés, meggyőzés, infó-csere
+
+Tudományos stílusú szövegek
+    -Célja: információcsere
+    JELLEMZŐI:
+        -szakszavak, szakkifejezések használata
+        -érzelemmentes (semleges érzelmi árnyalatú szavak)
+        -összeszedett, tárgyilagos, egyértelmű kifejezések, objektivitásra való törekvés
+        -mondatformálás, kijelentő mondatok,néha figyelemfelkeltő kérdések
+        -szövegformálás: jól követhető, ok-okozati/logikai, összefüggések, összehasonlítások, 
+        -vizuális eszközök: ábrák, diagramok, táblázatok
+        -hivatkozások, forrásmegjelölések, lábjegyzetek
+
+Publicisztikai stílusú szövegek
+    -a tömegkommunikációban használt szövegek többsége 
+        pl. közlemény, hirdetés, hír, riport, kommentár, interjú, ajánló, kritika, blog, bejegyzés, posztok, stb.
+    JELLEMZŐI:
+        -személytelen
+        -tárgyszerű
+        -lényegretörő
+        -vagy személyes, érzelemmel telített
+        -tárgyszerű, pontos megfogalmazás
+        -retorikai eszközök: ismétlés, fokozás
+        -tipográfia
+        

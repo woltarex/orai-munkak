@@ -1,0 +1,16 @@
+Transznacionális vállalatok
+
+tnc-k:
+    -anyavállalat (székhely egy adott országban)
+        +leányvállalat (más országban)
+    -jellemzőik:
+        -világméretekben szervezik termelőtevékenységüklet
+        -képesek kihasználni az egyes országok, régiók természeti és humán adottságait, erőforrásait
+        -termelési költségek minimalizálására és a profit maximalizására törekszenek ("globális profit")
+            (+cél: kevesebb adófizetés)
+        -globalizáció zászlóvivői
+        -új technikák bevezetése, csúcstechnológiák alkalmazása
+        -fogyasztók szokásainak átalakítása
+        -intrafirm kereskedelem (TNC-k telephelyei között lebonyolódó kereskedelem)
+        -K+F tevékenységek jelentősége
+        -világtermékek kialakulása
