@@ -14,3 +14,23 @@ tnc-k:
         -intrafirm kereskedelem (TNC-k telephelyei között lebonyolódó kereskedelem)
         -K+F tevékenységek jelentősége
         -világtermékek kialakulása
+    -1970-es évektől->TNC-k-> egyszerű termelési integráció alapján szerveződnek
+        -anyavállalat -> döntéshozatal, irányítás
+        -leányvállalat -> termelési folyamat
+    -1990-es évektől->TNC-k->komplex integráció
+        -számítógépes üsszeköttetés->leányvállalatok is bekapcsolódnak a kutatás, fejlesztés, értékesítés folyamatába
+Mit, hol érdemes?
+    -A piackutatás, marketingrevékenység -> fogyasztópiachoz közel
+    -A K+F a nagy egyetemi városok, innovációs központok közelében
+A termelés egyes részeit széttelepítik:
+    -"kéményes ipar": az alapanyagok termelése a fejlődő országokban
+    -"csavarhúzó iparágak": a részegységek gyártása olcsó, iskolázott, könnyen betanítható munkaerővel (+adókedvezmények)
+Az anyavállalatok (döntési központok) többnyire a világ nagyvárosi hálózatában vannak. (World City-k)
+
+Felvásárlás, fúzió, kartell
+A pénzügyi szektor "önálló életre kelt"
+    -termeléstől részben elszakadt -> monetáris világgazdaság
+A pénz fogalma, funkciói, formái:
+    -Elsődlegesen fizetési eszköz -> csereeszköz, közvetítőeszköz fizetéskor
+    -Fizetési egység (értékmérő) -> érték kifejezése, piaci árrendszer alapja
+    -Értékmegőrzés -> felhalmozása -> vagyontartás formája
