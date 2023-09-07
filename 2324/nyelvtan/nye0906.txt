@@ -1,0 +1,38 @@
+Ismétlés
+Szövegtan
+
+Definíció: szöveg = a beszéd alapegysége (kommunikáció)
+Jellemzői:  -egységes téma
+            -logikai összefüggés
+            -lezárás => megszerkesztettség
+
+Szerkezete:
+    => mikro-
+        -mondat
+        -mondattömb
+        -bekezdés
+        -szakasz
+    => makro-
+        -cím
+        -bevezetés
+        -tárgyalás
+        -befejezés
+
+Szövegkohéziós elemek (szövegösszetartó erő):
+    => jelentés:
+        -szavak ismétlődése
+        -szinonimák/mezőösszefüggés
+        -képzettársítás
+        -jelentésbeli hiány
+        -tagolás
+    => nyelvtani:
+        -kötőszavak
+        -utalószók
+        -névmások
+        -toldalékok
+        -nyelvtani-szerkezeti hiány
+
+A szöveg egészében megjelenő kapcsolóelemek:
+    -cím
+    -kulcsszavak
+    -fókuszmondat, tételmondatok
