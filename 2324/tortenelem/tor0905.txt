@@ -24,4 +24,33 @@ Vége: 1848 -> Forradalom és szabadságharc
         -jobbágyot foglalkoztatni nem korszerű
         -robot gazdaságtalan
         -a jobbágynak nincs saját földje
-        
+
+4, A magyar nyelv és kultúra
+    -1821 körül lezajlott a nyelvújítás
+    -Nyelvújítás a polgárosodás feltétele
+    -Államnyelvvé kell tenni a magyart, ez nacionalista követelés is
+    -MTA létrehozása: 1825, Széchenyi felajánlása az országgyűlésen
+    -Magyar nyelvtan és szótárak kiadása
+    -Színház, újság alig létezik, de erős cenzúra van
+    -Magyarosítási szándék alig van, de a nemzetiségi kérdés létrejön, a nemzetiségek védekezni kezdenek
+
+5, Ausztriához fűződő viszony
+    -1791-es törvény szerint M.o. a saját alkotmánya és törvényei szerint irányadó
+    -A korményszékek a bécsi hivataloknak vannak alárendelve
+    -Pragmatica Sanctio-t a birodalom egysége miatt betartják a Habsburgok
+    -Az udvar nem hívja össze a magyar országgyűlést 1812-25 között
+    -Függetlenség vagy együttműködés legyen magyar részről
+
+6, Az európai események hatása M.országon 1830-31-ben
+    -1830-ban Franciaországban újabb forradalom, figyelmeztet az alkotmányosság betartására
+    -Lengyel felkelés az orosz fennhatóság ellen, egyrészt figyelmeztet az orosz nagyhatalom
+        közelségére és veszélyeire, másrészt a lengyelek hibájára: nem nyerték meg a lengyel
+        nemesek a jobbágyságot at oroszok elleni felkelés támogatásához, nincs jobbágyfelszabadítás
+    -Kolerajárvány és lázadás 1831:
+        -oroszok hurcolják be, akik leverik a lengyel felkelést
+        -országgyűlést is elhalasztják emiatt
+        -m.országon 250000 áldozat
+        -védekezés: vesztegzár, bizmutpor, füstölés
+        -Zemplén és Sáros megyékben éhínség miatt lázadás, por túladagolás miatt halálesetek,
+            a lázadást leverik és 120 embert kivégeznek, 4000 börtönben
+        -hatása kettős: a konzervatívok szerint növelni kell a fegyelmet, a haladás hívei szerint reformok kellenek, pl. jobbágyfelszabadítás

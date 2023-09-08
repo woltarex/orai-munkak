@@ -1,0 +1,17 @@
+57 7-10 * * 1-5 playsound ~/jelzo.mp3
+02 12 * * 1-5 playsound ~/jelzo.mp3
+07 13 * * 1-5 playsound ~/jelzo.mp3
+02 14 * * 1-5 playsound ~/jelzo.mp3
+57 14 * * 1-5 playsound ~/jelzo.mp3
+
+00 8-11/1 * * 1-5 playsound ~/csengo.mp3
+05 12 * * 1-5 playsound ~/csengo.mp3
+10 13 * * 1-5 playsound ~/csengo.mp3
+05 14 * * 1-5 playsound ~/csengo.mp3
+00 15 * * 1-5 playsound ~/csengo.mp3
+
+45 8-11 * * 1-5 playsound ~/csengo.mp3
+50 12 * * 1-5 playsound ~/csengo.mp3
+55 13 * * 1-5 playsound ~/csengo.mp3
+50 14 * * 1-5 playsound ~/csengo.mp3
+45 15 * * 1-5 playsound ~/csengo.mp3

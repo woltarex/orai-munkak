@@ -1,5 +1,4 @@
 Task 1
-
 1 F
 2 A
 3 G
@@ -7,7 +6,6 @@ Task 1
 5 D
 
 Task 2
-
 6 lib-dating
 7 single
 8 books
@@ -16,7 +14,6 @@ Task 2
 11 happy
 
 Task 3
-
 12 M
 13 B 
 14 E
@@ -28,14 +25,58 @@ Task 3
 20 H
 
 Task 4
+21 c
+22 b
+23 b
+24 a
+25 b
+26 c
+27 a
+28 c
+29 c
+30 a
 
-21 B
-22 A
-23 B
-24 
-25
-26
-27 C
-28 C
-29 C
-30 C 
+
+Task 1
+1 K
+2 N
+3 G
+4 H
+5 C
+6 F
+7 D
+8 A
+9 E
+10 L
+
+Task 2
+11 strenght
+12 unlike
+13 explorers
+14 costly
+15 invention
+16 pressure
+17 extracted
+18 smoother
+
+Task 3
+19 of
+20 ago
+21 have
+22 makes
+23 as
+24 ore
+25 it
+26 into
+27 are
+28 made
+
+Task 4
+29 of
+32 ben
+34 as
+35 a
+36 the
+37 who
+39 had
+40 station
