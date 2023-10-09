@@ -51,4 +51,64 @@ Elméleti munkái:
             -hajógyár, vasöntöde
             -Ganz Ábrahám
             -hajógyár és téli kikötő Pesten
-            -Csepeli ipartelep 
+            -Csepeli ipartelep
+    
+    Az első reform országgyűlés 1832-36
+        -célok:
+            -királyi előterjesztés: könnyíteni az úrbéri terheken
+            -reformellenzék: önkéntes jobbágyfelszabadítás törvénybe iktatása (Kölcsey, Deák)
+        -eredmények:
+            -alsóház és felsőház között hosszú egyeztetés a jobbágyfelszabadításról
+            -ezt a király visszautasítja
+            -újratárgyalja az alsóház, ahol megbuktatják a javaslatot, mert a megyékben
+                (az udvar nyomására) megváltoztatták a követutasításokat (Kölcsey lemond)
+        -egyéb eredmények:
+            -a törvényhozás nyelve a magyar
+            -lánchíd épüljön fel, hídvámot mindenki fizessen
+            -országgyűlés költségeit a nemesség viselje
+            -Nemzeti Múzeum támogatására pénz elkülönítése
+            -megvalósul a nyilvánosság: Kossuth irányításával Országgyűlési Tudósítások
+                címmel kézzel írt levélként terjesztik az előfizetőknek
+            -jurátusok (joggyakornokok) segítségével készül
+            -országgyűlés bezárása után Törvényhatósági Tudósítások címmel a megyegyűlésekről
+        -jurátusok:
+            -ügyvédi vizsgához szükséges az országgyűlési joggyakorlat
+            -1 követnek 2 jurátusa lehet
+            -ők alkotják az "országyűlési ifjúságot" (nem szavaz, de mint közönség kiabál) vezetőjük Lovassy László
+            -esténként néha fáklyásmenetet rendeznek
+    
+    Uralkodóváltás 1835
+        -I. Ferenc halála
+            -még 1833-ban egyezséget köt miklós cárral a Szent Szövetség megerősítésére, ehhez a poroszok is csatlakoznak
+        -V. Ferdinánd 1835-1848. dec. 2.
+            -uralkodásra alkalmatlan
+            -helyette az államkonferencia dönt: 2 herceg + Metternich + Kolowrat
+            -valójában Metternich irányít
+            -céljuk a forradalom felszámolása
+
+    Terrorhullám
+        -bezárják, berekesztik az o.gy. működését 1836-ban
+            -Vörösmarthy megírja a szózatot, a nemzethalál gondolata nem csak őt gyötri
+        Felségsértési és hűtlenségi perek a reformellenzék és a jurátusok vezetői ellen (22 per 1835-38 között)
+            -cél az ellenzék elnémítása
+            -Lovassy László 10 áv börtönt kap Spielbergben
+            -Kossuth 4 év börtön, olvashat, tanulhat
+            -Wesselényi 3 év börtön, de szabadlábon lehet
+            -Deák eléri a szabadon bocsátását az 1839-40es országgyűlésen
+    1839-40es reform országgyűlés
+        Föszereplője Deák Ferenc
+            -önkéntes örökváltság elfogadása
+            -növelik a hitelezők biztonságát: váltótörvény, csődtörvény
+            -szabad gyáralapítás törvénye
+            -magyar nyelvhasználat kérvények, feliratok esetében
+            -zsidók részleges emancipációja: városba költözhet, kereskedhet
+    
+    Programja:
+        -ausztiához fűződő viszony: valódi alkotmányosságot követel, birodalmon
+            belüli önállóságot, perszonáluniót a többi Habsburg tartománnyal
+        -jobbágykérdés: kötelező örökváltság állami segítséggel
+        -közteherviselés
+        -jogkiterjesztés, törvény előtti egyenlőség, népképviseleti o.gy.
+        -iparfejlesztés védővámokkal
+        -egyesületek: védegylet, gyáralapító társaság, magyar kereskedelmi társaság
+        -egyedül magyar legyen az államnyelv

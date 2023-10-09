@@ -42,3 +42,17 @@ A pénz fogalma, funkciói, formái:
         -infláció -> az árak általános és tartós növekedése
                   -> az infláció alapvetően az áruk és szolgáltatlások árainak
                      tartós, általános, illetve széles körű emelkedése
+        -inflációt kiváltó tényezők:
+            -áruk, szolgáltatások iránt megnő a kereslet, de a szűkös kínálat ezzel nem tud lépést tartani
+            -termelési és szolgáltatási ágazatokat érintő költségek (energia, nyersanyag) emelkedése
+            -deficites költségvetés esetén az állam a hiány mérséklésére túlzott mértékben bocsát ki pénzt.
+
+            -az infláció mértéke -> az árszínvonal változásának mértékével -> árindexel határozható meg
+                -az áruk és szolgáltatások árának változását mutatja meg az egyik időszakról a másikra
+    -Devizapiac fogalmai:
+        -valuta -> idegen ország törvényes fizetési eszköze, pénzneme pl.: USD HUF
+        -deviza -> nemzetközi fizetőeszköz
+            -lehet bankszámlapénz, utazási csekk, utalvány
+        -konvertibilis valuta -> szabadon átváltható bármilyen másik valutára
+        -valutaárfolyam -> nemzeti valuták egymáshoz viszonyított értéke
+        -a valuta leértékelődése az árfolyam növekedését jelenti

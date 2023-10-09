@@ -1,0 +1,63 @@
+Pénz a világgazdaságban II.
+
+-értképapírok
+    -> speciális okiratok -> tulajdonosai pénzbeli követelésekkel léphetnek fel
+                             az értékpapírokat kibocsájtó szervezetekkel szemben.
+    -csoportjai:
+        -részvények: részvénytársaságok alapításakor illetve alaptőkéjük emelésekor bocsájtják ki
+                     a nyereséget, a befektetett tőke visszafizetését senki sem garantálja
+        
+        -kötvények:
+            -hitelviszonyt megtestesítő értékpapir
+            -a kibocsátó szervezet kötelezettséget vállal a kötvényen feltüntetett
+             pénzösszeg visszavizetésére kamattal együtt meghatározott időben
+            -cél: tőkeszerzés újabb beruházásokra
+    
+        -állampapír:
+            -állam által kibocsájtott kötvény
+            -rövid vagy hosszú lejáratú értékpapír
+            -az állam szavatol, kötelezettséget vállal
+            -cél: tőkeszerzés
+
+pénzügyi rendszerek:
+    -bankok
+    -tőzsdék
+
+Bankok szerepe a pénzforgalom alakulásában:
+    -pénz és értékpapírok fogalmát összefogó intézmény
+    -folyószámla biztosítása -> ügyfeleknek
+    -devizaszolgáltatás -> valutavásárlás biztosítása
+    -pénzügyi tanácsadó szolgáltatás
+    -értékpapír fogalom összefogása -> értékpapír adás-vétel
+    -hitelnyújtás -> pénzügyi kölcsön
+                  -> kamat -> a hitel ára
+    
+    HITEL:
+        A hitel egy évre számított költségeit és a kamatot a THM tartalmazza,
+            nagyságát százalékban adják meg
+        -futamidő alapján:
+            -rövid lejáratú
+            -hosszú lejáratú
+        -kamatozás szempontjából:
+            -fix kamatozású:
+                -nem változik a kamat mértéke a futamidő alatt
+            -változó kamatozású:
+                -akár jelentősen is megváltozhat a kamat mértéke a futamidő alatt
+    
+    TŐZSDE:
+        -az egyetlen hely a piacgazdaságban, ahol a termékek árát kizárólag
+            csak a kereslet és kínálat viszonya határozza meg -> "piacok piaca"
+        -szervezettség jellemzi -> üzletmenet szigorúan rögzített formában
+        típusai:
+            -árutőzsde -> mezőgazdasági termékek piaca + ásványkincsek, értékes fémek piaca
+                -Chicagoi a legnagyobb, legforgalmasabb gabonatőzsde
+            -értéktőzsde -> értékpapírpiac
+                -brókerek szövetsége
+                -fogalma: részvények árának alakulásából számított átlagindex (tőzsdeindex)
+        New York-i értéktőzsde: Dow Jones index:
+            -30 első osztályú cég részvény árainak súlyozott átlaga
+            -a forgalom és a jegyzett cégek száma alapján viágelső
+        Budapesti értéktőzsde: kelet-közép-európai régió pénzügyi központja
+            -BUX index -> részvények árának átlagos alakulása
+            -legnagyobb tőkeértékű és forgalmú részvények árának átlagos változását tükrözi
+            

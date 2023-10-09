@@ -50,7 +50,7 @@ Task 1
 10 L
 
 Task 2
-11 strenght
+11 strength
 12 unlike
 13 explorers
 14 costly
@@ -65,7 +65,7 @@ Task 3
 21 have
 22 makes
 23 as
-24 ore
+24 which
 25 it
 26 into
 27 are
@@ -73,10 +73,43 @@ Task 3
 
 Task 4
 29 of
-32 ben
+31 clock
+32 been
 34 as
 35 a
 36 the
 37 who
 39 had
 40 station
+
+
+Task 1
+1 B
+2 C
+3 A
+4 B
+5 C
+6 B
+7 A
+
+Task 2
+8 Road safety
+9 35%
+10 End of the decade
+11 Speed and alcohol
+12 50000
+13 Halving the number of deaths
+14 10 most recent members of EU
+15 Road deaths
+16 Britain, the Netherlands and Sweden 
+17 Reducing the most deaths
+
+Task 3
+18 AB
+19 B
+20 B
+21 A B
+22 A
+23 A
+24 B
+25 A

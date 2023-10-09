@@ -1,0 +1,35 @@
+Ismétlés
+Szövegtípusok
+    -spontán/tervezett
+    -szóbeli/írott
+    -magán/nyilvános
+    -monologikus/dialogikus/polilogikus
+
+Funkció szerint:
+    -elbeszélő
+    -leíró
+    -elemző-meggyőző
+
+Stílusrétegek szerint:
+    A. Társalgási/magánéleti
+    B. Publicisztikai
+    C. Tudományos
+    D. Hivatalos
+    E. Szónoki
+    F. Szépirodalmi
+
+A hivatalos Stílusrétegbe tartozó szövegtípusok:
+    jellemzők:
+        -személytelen
+        -formális - megformált átgondolt
+        -tárgyilagos
+        -tiszteletteljes hangnem
+        -lényegretörő
+    előfordulás:
+        -törvény, határozat, rendelet
+        -hivatali/üzleti levelezés
+        -jegyzőkönyv
+        -kérvény/elismerés
+        -szóbeli: tárgyalás
+    szóhasználat:
+        -jellegzetes szavak, kifejezések, fordulatok
