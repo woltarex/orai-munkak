@@ -1,21 +1,21 @@
 A "századforduló zenéje" általában a 19. és 20. század fordulóján, tehát körülbelül 1880 és 1920 közötti időszakra utal.
-Ez egy izgalmas időszak volt a zene történetében, mivel számos új stílus és technikai fejlesztés jelent meg ebben az időszakban.
-Itt van egy rövid összefoglaló a századforduló zenéjéről:
-    Romantika végén, modernizmus kezdetén:
-        Az 1800-as évek második felében a romantika korszaka hanyatlani kezdett, és a modernizmus felé haladt a zenei világ.
+Ez egy izgalmas időszak volt a zene történetében, mivel számos új stílus és zenetechnikai fejlesztés jelent meg ebben az időszakban.
+Rövid összefoglaló a századforduló zenéjéről:
+    Romantika vége, modernizmus eleje:
+        Az 1800-as évek második felében a romantika korszaka hanyatlása volt megfigyelhető, és a modernizmus felé haladt a zenei világ.
         A zeneszerzők kísérleteztek új hangszínekkel, struktúrákkal és zenei nyelvezettel.
     Impresszionizmus:
-        A festészetben már elterjedt, majd a zenében is megjelent ez a stílus, mely a pillanatnyi benyomásokat próbálta megörökíteni.
-        Claude Debussy és Maurice Ravel voltak a fő képviselői.
-    Atonális zene és 12 hangrendszer:
+        Először a festészetben terjedt el, majd a zenében is megjelent az impresszionizmus, mely a pillanatnyi benyomásokat próbálta
+        megörökíteni. Claude Debussy és Maurice Ravel tekinthetőek a fő képviselőinek.
+    Atonális zene és új kompozíciós technikák:
         Arnold Schönberg vezette be az atonális zenét, amelyben a hagyományos dallam- és hangnemstruktúrák felbomlottak.
-        Ő később kifejlesztette a 12 hangrendszer nevű kompozíciós technikát.
+        Ő később kifejlesztette a 12-es hangrendszer nevű kompozíciós technikát.
     Jazz és ragtime:
         A századforduló Amerikájában megjelentek olyan zenék, mint a jazz és a ragtime, melyek élénk ritmusukkal
         és improvizatív jellegükkel azonnal népszerűek lettek.
     Népzenék és nacionalizmus:
         Sok zeneszerző ebben az időszakban a saját országának népzenéjét és kulturális hagyományait kezdte el felhasználni műveiben.
-        Például Bartók Béla a magyar népzenei gyűjtései révén lett híres.
+        Példaképp Bartók Béla a magyar népzenei gyűjtései révén lett híres.
     Technikai fejlődések:
         Az 1900-as évek elején a hangrögzítési technológiák fejlődtek, ami forradalmasította a zenei ipart és teret nyitott
         az otthoni zenehallgatásnak.
@@ -26,13 +26,13 @@ Itt van egy rövid összefoglaló a századforduló zenéjéről:
         A zenészek egyre több kísérletet tettek a hagyományos zenei formák felbomlasztására és új hangzások keresésére.
         Ezek a kísérletezések olyan stílusokat hoztak létre, mint a szürrealizmus és a dadaizmus.
     Amerikai avantgárd:
-        Az európai avantgárd művészek, mint például a bécsi iskola tagjai, követték az amerikai zenetörténéseket is.
+        Az európai avantgárd művészek, mint például a bécsi iskola tagjai, követték az amerikai zenetörténések fonalát egyaránt.
         A modernitás és az innováció iránti érdeklődés áthatotta mindkét kontinens zenéjét, és gyakran inspirálták egymást.
     Blues és spiritual:
         Az afroamerikai zenék, mint a blues és a spiritual, szintén meghatározó hatással voltak az európai zenei gondolkodásra.
         Ezek az érzelmekben gazdag műfajok inspirálták az európai zeneszerzőket a hangsúlyozott érzelmi kifejezésre.
 
-Claude Debussy (1862-1918) francia zeneszerző volt, aki a 19. és 20. század fordulójának egyik legfontosabb zenei innovátora volt.
+Claude Debussy (élt: 1862-1918) francia zeneszerző, aki a 19. és 20. század fordulójának egyik legfontosabb zenei innovátora volt.
 Zenéje a impresszionizmus nevű művészeti áramlatot tükrözte, amely a ködös hangzásokat, színeket és hangulatokat helyezte előtérbe.
 Debussy művei gyakran festői képeket idéznek meg, és a természetből, illetve a költészettől merítettek inspirációt.
 
@@ -40,8 +40,8 @@ Debussy: Golliwogg's Cakewalk
          La Mer
          Clair de lune
 
-Giacomo Puccini (1858-1924) olasz zeneszerző, a romantikus opera egyik legnagyobb alakja.
-Számos világhírű operát alkotott, melyek a 19. és 20. század fordulójának operairodalmát meghatározták.
+Giacomo Puccini (élt: 1858-1924) olasz zeneszerző, a romantikus opera egyik legnagyobb alakja.
+Számos világhírű operát alkotott, melyek a 19. és 20. század fordulójának operairodalmára meghatározóan hatottak.
 Legismertebb művei közé tartozik a "Bohémélet", a "Tosca", a "Madama Butterfly" és az "Aida" című operák.
 Puccini műveit az érzelmi mélység, az emberi sorsok megragadása és a nagyszabású zenei megvalósítás jellemzi.
 Zenéje gyakran érzékeny, lírikus és drámai elemeket vegyít, és a karakterek érzéseit nagyszerűen fejezi ki.
@@ -50,13 +50,12 @@ Puccini művei máig népszerűek és gyakran színpadra állítják világszert
 
 Puccini: Tosca
 
-Giacomo Puccini (1858-1924) olasz zeneszerző, a romantikus opera egyik legnagyobb alakja.
-Számos világhírű operát alkotott, melyek a 19. és 20. század fordulójának operairodalmát meghatározták.
-Legismertebb művei közé tartozik a "Bohémélet", a "Tosca", a "Madama Butterfly" és az "Aida" című operák.
-Puccini műveit az érzelmi mélység, az emberi sorsok megragadása és a nagyszabású zenei megvalósítás jellemzi.
-Zenéje gyakran érzékeny, lírikus és drámai elemeket vegyít, és a karakterek érzéseit nagyszerűen fejezi ki.
-Puccini művei máig népszerűek és gyakran színpadra állítják világszerte.
-Ő az opera történetének egyik legbefolyásosabb és legkedveltebb komponistája.
+Richard Strauss (1864-1949) német zeneszerző és karmester volt, a késő romantika és a 20. századi
+zenei stílusok meghatározó alkotója.
+Legismertebb művei közé tartozik a "Also Sprach Zarathustra", "Salome", az "Elektra" és a "Der Rosenkavalier".
+Kiemelkedő operaszerző.
+Strauss zenei nyelvezete rendkívül gazdag és sokszínű, képes volt kifejezni a legmélyebb emberi érzéseket.
+Művei sokszor erős drámai elemekkel és gazdag szimfonikus textúrákkal rendelkeznek.
 
 Strauss: Also Sprach Zarathustra (Űr odüsszeia theme)
 
