@@ -24,3 +24,35 @@ Vörösmarty: Csongor és Tünde
     -műfaja: mesedráma/filozofikus költemény/emberiség költemény
     -kétszintes dráma
     -előzményei: História egy Argirus nevű királyfiról és egy tündér szűzleányról
+    -mese: főhős->boldogságkeresés
+                ->romló/segítő erők
+                ->kudarc
+                -> zárlat: végbeteljesedés
+
+    -filozófiai kérdsé felvetések:
+        -van-e értelme az emberi létnek?
+        -élet értelme - megtalálható-e a földön?
+    -5 boldogságforrás:
+        1. Kalmár: pénz
+        2. Fejedelem: hatalom
+        3. Tudós: tudás
+        4. Balga: anyagi javak (étek, ital)
+        5. Csongor: eszményi szerelem
+        -> Válasz: az élet értelme a szerelemben található meg
+    
+    -Szereplők:
+        emberek:
+            Csongor
+            Balga + Ilma
+            Kalmár
+            Fejedelem
+            Tudós
+        rontó:
+            Mirígy
+            3 ördögfi
+        nemes erők:
+            Tünde
+            Nemtők
+
+    -tér, idő: 24 óra (éjfél-éjfél)
+    

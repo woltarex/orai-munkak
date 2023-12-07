@@ -1,0 +1,22 @@
+SI impersonale -> ha egyes számú a tárgy
+    studiare
+    Si studia insieme meglio
+    Si é stanchi
+        Si -> "az emberek"
+        é -> E/3
+        stanchi -> maschile/plurale melléknév
+    Se si va al lavorso in bicicletta, é piú veloce.
+    Se non si fa colazione, si mangia molto a pranzo.
+    Se si studia si riceve 15.
+    lavarsi -> ci si lava
+    ci si lava con l'aqua calda
+    Ci si veste alla moda
+    Abituarsi a
+    Quando si é anziani, ci si abitua difficilmente alle cose nuove
+    La finestra si apre automaticamente
+
+SI passivante -> ha többes számú a tárgy
+    Si beve il vino rosso freddo
+    Le paste differenti si consumano caldo
+    I compiti per casa generalmente si fanno a casa
+    Le finestre si aprono automaticamente

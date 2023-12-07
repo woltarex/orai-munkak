@@ -97,3 +97,37 @@ Az EU stratégiai menetrendje
         -a klímasemleges, zöld, méltányos és szociális Európa megvalósítása
         -az európai érdekek és értékek előmmozdítása a globális színtéren
     -emellett meghatározza azt is, hogy miként kell ezeket a célokat megvalósítani
+
+Európai Bizottság:
+    -Brüsszel
+    -elnöke és 27 tagállamok által jelölt biztosa van
+    -feladatai:
+        -jogszabályok kezdeményezése
+        -EU költségvetésének kezelése
+        -az uniós jogszabályos végrehajtása
+        -az EU nemzetközi képviselete
+        -jelenlegi elnöke: Ursula von der Leyen
+Európai Unió bírósága:
+    -Luxembourg
+    -tagállamonként egy-egy bíróból áll
+    -feladata az uniós jog értelmezése
+    -felügyeli a jogszabályok betartását 
+Európai Központi Bank:
+    -Frankfurt
+    -Euró bankjegyek kibocsájtása, nemzeti bankok tevékenységének összehangolása
+Európai Számvevőszék
+    -Luxembourg
+    -ellenőrzi, hogy az uniós forrásokat helyesen számolják-e el
+
+Vitatott agrárpolitika
+    -központi költségvetés több, mint 1/3 része mezőgazdasági támogatásra megy,
+        pedig a lakosság mindössze 4%-a él ebből
+    -magas támogatás oka:
+        -családi gazdaságok -> kis méret, kevésbé gépesíthető, több munkaerőt alkalmaznak,
+            drágábban termelnek -> mint a tengerentúli versenytársak
+    -kisparaszti gazdaságok lemorzsolódását, falvak elnéptelenedését próbálja
+        fézekzni ezzel az EU mezőgazdasági politikája
+    -cél az olcsóbb külföldi agrártermékek kiszorítása -> vámokkal, mennyiségi korlátozásokkal
+        minőségi előírásokkal
+    -hangsúlyok változtak, ma a cél a vidékfejlesztés -> falusi lakosság
+        képzettségének és életkörülményeinek javítása
