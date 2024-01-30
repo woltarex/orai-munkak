@@ -1,0 +1,25 @@
+Task 1
+1, B
+2, B
+3, A
+4, C
+5, A
+6, B
+7, B
+8, A
+Task 2
+9, A
+10, A
+11, AB
+12, B
+13, B
+14, B
+Task 3
+15, animal shelter
+16, catches mice
+17, people's keyboards
+18, city council
+19, allergy attack
+20, big attraction
+21, local newspaper
+22, mayor of the city
