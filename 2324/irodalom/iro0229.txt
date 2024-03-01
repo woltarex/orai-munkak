@@ -1,0 +1,19 @@
+Arany János balladái:
+"tragédia dalban elbeszélve"
+    -konfliktus
+    -epikus alkotások
+    -verses
+
+korszak:
+    -nagykőrösi
+    -az őszikék balladák/kései
+téma:
+    -történelmi
+    -nagyvárosi
+    -népies
+idő:
+    -körkörös
+    -lineáris
+elbeszélés módja:
+    -egyszólamú
+    -kétszólamú
