@@ -1,0 +1,32 @@
+Task 1
+1, A
+2, B
+3, C
+4, B
+5, B
+6, B
+7, C
+8, A
+9, A
+10, C
+11, B
+12, A
+Task 2
+13, extremely nervous
+14, production schedule
+15, crew injuries
+16, complete failure
+17, fairy tale
+18, original vision
+19, do better
+20, brief hesitation -
+21, home video -
+22, unusual bet
+Task 3
+23, B
+24, C
+25, C
+26, B
+27, B
+28, C
+29, A
