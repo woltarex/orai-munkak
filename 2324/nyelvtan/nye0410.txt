@@ -1,0 +1,22 @@
+Stilisztika
+Hangalak és jelentés
+
+-szavak: -motiválatlan -> h és j között esetleges kapcsolat
+         -motivált -> h és j között valódi kapcsolat
+
+1. Egyjelentésű szavak: egy hangalaknak egy jelentése van
+2. Többjelentésű szavak: egy hangalakhoz több jelentés társul
+    -egymásból levezethető jelentések
+3. Azonos alakú szavak: egy hangalakhoz több jelentés zárul
+    -nincs kapcsolat a jelentések között
+    -homonímák: -szótári: alaptagok egyeznek
+                -nyelvtani: toldalékolt alakú azonosság
+                -lehet csak hangzásban illetve csak írásban is
+4. Rokon értelmű szavak: több hangalaknak egy jelentése van
+5. Hasonló alak: hangalakban kis eltérés de jelentésben ugyanaz
+6. Ellentétes jelentésű szavak: különböző hangalak más ellentétes jelentéssel
+7. Hangutánzó: hangalakból következik a jelentés
+8. Hangulatfestő: hangalak és jelentés korrelál
+*. Jelentésmező: -alárendelő:
+                 -fölérendelő:
+                 -mellérendelő:
