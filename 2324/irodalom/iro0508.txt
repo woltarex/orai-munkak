@@ -1,0 +1,72 @@
+Madách Imre: Az ember tragédiája
+    -1958-60 között írta
+    -Arany János bírálata a műről
+        -> előbb Faust-utánzatnak nézte, aztán őszinte elismerés
+        -> 1862-ben jelent meg (Arany javításaival)
+    
+    Műfaj: emberiségköltemény / drámai költemény - filozofikus mű
+        -gondolati-bölcseleti elemnek van alárenmdelve a drámaiság
+        -minták: Goethe: Faust; Dante: Isteni színjáték; Milton: Az elveszett Paradicsom
+        -az egésze emberiséget foglalkoztató kérdéseket vet fel:
+            -Mi az ember helye a világban?
+            -Mi az emberi élet célja?
+            -Van-e fejlődés a történelemben?
+    
+    Szerkezet: 15 szín
+        -1-3. + 15.: keret (bibliai)
+        -4-14.: álomszínek (történelmi + elkézelt jövő)
+
+    Filozófiai háttér:
+        -Kegel: történelem filozófiája
+        -a kül. történeti korokat egy vezéreszme jellemzi
+            1. az eszme kibontakozása -> tézis
+            2. az eszme eltorzul (gyakorlat) -> antizézis
+            3. az elképzelések módosítása -> szintézis
+    
+    Szereplők:
+        -Ádám - az emberiség képviselője
+              - hit, lelkesedés
+        -Lucifer - rideg, józan ész, kétkedés
+        -Éva - sokszínű, változatos alakok
+             - segíti/akadályozza Ádámot
+    
+    Színek:
+        Első szín: Menny - a teremtést követően
+            -angyalok: "eszme" (teremtő gondolat)
+                       "erő" (cselekvés, a világ megteremtése)
+                       "jóság" (Isten mint a legfőbb jó)
+            -Lucifer: hiányolja az értelmet a teremtésben
+                        -Mi a célja, értelme?
+                      Isten ellenlábasa: fény <-> árnyék
+                                         élet <-> halál
+                                         remény <-> kétkedés
+        Második szín: Paradicsom
+
+        Harmadik szín: Pálmadás vidék (a Paradicsomon kívül)
+            -otthont építenek
+            -Ádám: -> tudni, hogy mi lesz az emberiség sorsa, jövője
+            -Lucifer álomban végigvezeti őket a történelmen
+                => 4-11. történelmi színek + 12-14.
+                    eélépzelt jövő <- álom színek
+        Negyedik szín: Egyiptom (ókor)
+            -Ádám: fáraó
+            -Lucifer: miniszter (fáraó embere)
+            -Éva: rabszolga felesége
+            +rabszolga
+
+            -eszme: hírnév, halhatatlanság, dicsőség
+            -hiányérzet, magány érzése
+            -> Éva milliók jaját hallja -> új eszme: a millióknak érvényt szerezni
+        Ötödik szín: Athén (ókor)
+            -Ádám: Miltiádész hadvezér
+            -Éva: Lucia, M. felesége
+            -Lucifer: egy harcos -> megzavarja őket
+            -Kimón - M és L fia
+
+            -Lucia félti a férjét a nagyravágyástól
+            -eszme: demokrácia
+            -visszásság: a tömeg befolyásolható, Miltiádész halálát kívánják
+            -Miltiádészt ki akarják végezni
+            -Ádám: csalódik a nép ítéletében -> a jóakarójukkal szembefordulnak
+                "csak egyedül én voltam a bolond, Hivén, hogy ilyen népnek kell szabadság"
+            -Lucifer -> hóhér
