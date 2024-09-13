@@ -1,0 +1,15 @@
+1,
+A holokauszt egy a második világháború alatt bekövetkező esemény.
+A zsidókat a "Mein Kampf"-ban A. Hitler áltql leírt ún. fajelmélet alapján
+megkülönböztették, kirekesztették, majd kivégezték.
+F1 forrás első két sora: ideológiai alapjai a holokausztnak
+Ez abban is megnyilvánul, hogy zsidócsillag meg gettók (F2) + koncentrációs táborok (F4)
+Munkáspárt programjában szerepel, hogy csak az lehet állampolgár, aki néptárs, akinek a vére tiszta.
+A zsidókat munkatáborba küldik, ahol előbb-utóbb meghaltak
+
+2,
+A 2. világháború 1939.-ben robbant ki, amikor a németek elfoglalták a szerződés
+titkos záradéka szerint nekik járó területeket, 1939.09.01-én.
+A hadviselő felek: Tengely hatalmak (N.o., Ma.o, O.o., J.) és a Szövetségesek (USA, Szu., N.-Br.)
+41-ben felrúgja a szerződést N.o. és megtámadja
+Civilek elleni támadások (F3)
