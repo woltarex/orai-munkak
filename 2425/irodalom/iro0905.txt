@@ -65,3 +65,9 @@ Kontraszt:
     -"fekete" (gyász) -
     -tél
 -erős képiség + érzelmek
+
+
+Létharc cersek
+    -időtlen küzdelem - egy vereségre ítélt magányos hős <--> mitikus
+    -minden érték/igazság bizonytalan (pl pénz/arany)
+    -halál - ambivalencia érzések
