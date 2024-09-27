@@ -1,0 +1,20 @@
+Tömegkommuniáció
+    -szervezett, intézményes formában működő infromációcsere
+        -> valamilyen technikai eszközzel (médium)
+        -> nagy számú befogadó részére
+        -> egyirányú
+        ADÓ: újság/rádió/TV/internet
+                kontent készítői
+        VEVŐ: tömegek; célcsoportok
+        CSATORNA: technikai eszköz: -nyomtatott
+                                    -elektronikus
+        KÓD: nyelv + vizuális elemek; zenei elemek
+        ÜZENET: az adó/feladó válogatja, szerkeszti
+
+    -célja/funkciója:
+        1. Tájékoztatás
+        2. Véleményformálás
+        3. Szórakoztatás
+        4. Oktatás
+        5.
+        6*. Manipulálás, befolyásolás
