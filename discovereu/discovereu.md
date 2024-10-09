@@ -2,7 +2,7 @@
 
 >Ebben a dokumentumban szedem össze az összes információ morzsát, amely a DiscoverEU projekten belül megvalósuló utazásunkhoz releváns.
 
-==Utoljára frissítve: 2024.10.04.==
+*Utoljára frissítve: 2024.10.09.*
 
 ## FONTOS
 
