@@ -1,7 +1,7 @@
 # DiscoverEU
 
 > [!IMPORTANT]
->Ebben a dokumentumban szedem össze az összes információ morzsát, amely a DiscoverEU projekten belül megvalósuló utazásunkhoz releváns.
+>Ebben a dokumentumban szedem össze az összes információ morzsát, amely a DiscoverEU projekten belül megvalósuló utazásunkhoz releváns.  
 > *Utoljára frissítve: 2024.10.09.*
 
 ## FONTOS
@@ -58,3 +58,7 @@ Előreláthatóan viszonylag konzervatív számítások alapján 2 héttel szám
 
 - [Európai vasúti térkép](https://www.interrail.eu/content/dam/pdfs/Interrail_Maps_2024.pdf)
 - [DiscoverEU GYIK.](https://youth.europa.eu/discovereu/faq_hu)
+
+## &nbsp;:pleading_face:
+
+&nbsp;:point_right::point_left:
