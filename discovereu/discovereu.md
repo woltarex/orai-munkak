@@ -1,8 +1,8 @@
 # DiscoverEU
 
+> [!IMPORTANT]
 >Ebben a dokumentumban szedem össze az összes információ morzsát, amely a DiscoverEU projekten belül megvalósuló utazásunkhoz releváns.
-
-*Utoljára frissítve: 2024.10.09.*
+> *Utoljára frissítve: 2024.10.09.*
 
 ## FONTOS
 
@@ -53,3 +53,8 @@ Az European Youth Card biztosít valamennyi kedvezményt, viszont valószínüle
 ## Költségek
 
 Előreláthatóan viszonylag konzervatív számítások alapján 2 héttel számolva a teljes út legalább €800-ra esne fejenként.
+
+## Hasznos linkek
+
+- [Európai vasúti térkép](https://www.interrail.eu/content/dam/pdfs/Interrail_Maps_2024.pdf)
+- [DiscoverEU GYIK.](https://youth.europa.eu/discovereu/faq_hu)
