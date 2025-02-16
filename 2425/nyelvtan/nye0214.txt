@@ -1,0 +1,24 @@
+Szövegtan
+A szövegösszefüggés megteremtésének eszközei
+SZÖVEG = a beszés/komm. alapegysége; a legnagyobb nyelvi szint
+jellemzői:  -teljes, lezárt, szándékolt üzenet
+            -komm. célja van
+            -szabályok szerint alakított
+
+3 feltétel:
+    1, kaocsolódás a beszédhelyzethez = KOHERENCIA
+    2-3, összefüggés a mondatok között
+        -tartalmi (kohézió)
+        -nyelvtani (konnexió)
+
+Nyelvtani:
+    -egyeztetés (toldalékok)
+    -névelő (határozott/határozatlan)
+    -kötőszavak
+    -utalások (anafora, katafora, deixis)
+    -hiány
+Tartalmi:
+    -kulcsszó
+    -cím
+    -izotópok (pl. szinonimák)
+    

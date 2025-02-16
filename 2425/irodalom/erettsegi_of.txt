@@ -1,0 +1,88 @@
+Korstílusok és stílusirányzatok  
+A korstílusok olyan művészeti és irodalmi korszakokat jelölnek, amelyekre
+jellemző esztétikai, gondolkodásmódbeli és műfaji sajátosságok jellemzők. A stílusirányzatok egy-egy korszakon belül különböző művészeti áramlatok lehetnek.
+
+Főbb korstílusok:
+    - Ókor: Epikus és lírai művek (pl. Homéroszi eposzok).
+    - Középkor: Egyházi és lovagi irodalom (pl. himnuszok, legendák).
+    - Reneszánsz (15-16. sz.): Humanizmus, emberközpontúság, klasszikus minták (pl. Janus Pannonius).
+    - Barokk (17. sz.): Pátosz, bonyolult körmondatok, vallásosság (pl. Zrínyi Miklós).
+    - Klasszicizmus (18. sz.): Szabályosság, antik minták, racionalitás (pl. Bessenyei György).
+    - Romantika (19. sz.): Érzelmesség, szabadságvágy, hősi pátosz (pl. Petőfi, Vörösmarty).
+    - Realizmus (19. sz. második fele): Valósághű ábrázolás, részletező leírások (pl. Mikszáth Kálmán).
+    - Modern irányzatok (20. sz.): 
+        - Szimbolizmus: Jelképek, rejtett jelentések (pl. Ady Endre).
+        - Impresszionizmus: Hangulatok, pillanatnyi benyomások (pl. Kosztolányi Dezső).
+        - Avantgárd: Kísérletező, formabontó (pl. Kassák Lajos).
+        - Naturalizmus: A realizmus radikális változata, részletes, akár nyers ábrázolás (pl. Zola hatása).
+
+---
+
+Műnemek  
+A műnemek az irodalmi alkotások alapvető csoportjai:
+
+    1. Líra: Érzelmek, gondolatok kifejezése, verses formában.  
+        - Pl. óda, himnusz, elégia, dal, epigramma.  
+    2. Epika: Elbeszélő jellegű művek, lehet verses vagy prózai.  
+        - Pl. eposz, regény, novella, mese, legenda.  
+    3. Dráma: Párbeszédes, cselekményes mű, színpadra szánt.  
+        - Pl. tragédia, komédia, dráma.
+
+---
+
+Főbb műfaji meghatározások  
+
+Lírai műfajok  
+    - Óda: Magasztos hangvételű, fennkölt költemény (pl. Berzsenyi: A magyarokhoz).
+    - Himnusz: Vallásos vagy hazafias témájú fohász (pl. Kölcsey: Himnusz).
+    - Elégia: Melankolikus, lemondó hangulatú vers (pl. Berzsenyi: A közelítő tél).
+    - Dal: Egyszerű szerkezetű, érzelmes költemény (pl. Petőfi: Fa leszek, ha…).
+    - Epigramma: Rövid, csattanós, tömör vers (pl. Kölcsey: Huszt).
+
+Epikai műfajok  
+    - Eposz: Hősköltemény, egy közösség történelmét elbeszélő mű (pl. Zrínyi: Szigeti veszedelem).
+    - Regény: Hosszabb terjedelmű, összetett cselekményű prózai mű (pl. Jókai: Az arany ember).
+    - Novella: Rövid prózai mű, egyetlen esemény köré épül (pl. Mikszáth: A néhai bárány).
+    - Mese: Csodás elemekkel átszőtt elbeszélés (pl. Benedek Elek meséi).
+    - Mítosz: Isteni eredetű történet, világmagyarázat (pl. görög mitológia).
+    - Legenda: Vallásos tárgyú, szentek életét bemutató történet (pl. Szent Margit legendája).
+
+Drámai műfajok  
+    - Tragédia: Fenséges, hősies konfliktus, általában tragikus végkimenetel (pl. Madách: Az ember tragédiája).
+    - Komédia: Társadalmi visszásságokat, emberi gyarlóságokat nevetségessé tevő mű (pl. Molière: Tartuffe).
+    - Dráma: Vegyes műfaj, tragikus és komikus elemek keveredhetnek (pl. Shakespeare: Hamlet).
+
+---
+
+Novellaelemzés szempontjai
+    1. Hogyan jelennek meg a novella műfaji sajátosságai a műben?
+        (rövid terjedelmű, rövidebb időt ölel fel, kevés szereplőt mutat be,
+         valamilyen fordulat/csattanó van benne)
+    2. A történet szerkezeti felépítése
+    3. A szereplők jellemzése
+    4. A környezet bemutatása
+    5. Valós és mesebeli elemek
+    6. Az elbeszélő személyisége
+        (Mindentudó-e? Objektív, vagy szubjektív?)
+    7. Időkezelés
+        (Lineárisan halad, vagy ugrál a történet az időben?)
+    8. Központi elemek, toposzok
+    9, Mondatszerkesztés
+        (pl. a rövid mondatok a zaklatottságot és a dinamikusságot erősítik)
+    10, A mű mondanivalója és hatása az olvasóra
+
+---
+
+Verselemzés szempontjai
+    1. A mű helye a költő életművében
+    2. A mű helye a történelmi környezetben
+    3. Műfaj
+    4. Szerkezeti egységek
+    5. Verselés
+    6. A lírai én helyzete
+    7. Dallamosság, ritmus
+    8. Rímek, vagy azok hiánya
+    9. Költői képek
+        (hasonlatok, metaforák, allegória, szimbólum, megszemélyesítés)
+    10. Alakzatok
+        (ismétlés, ellentét, párhuzam, refrén)
