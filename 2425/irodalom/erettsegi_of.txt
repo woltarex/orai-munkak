@@ -67,9 +67,9 @@ Novellaelemzés szempontjai
     7. Időkezelés
         (Lineárisan halad, vagy ugrál a történet az időben?)
     8. Központi elemek, toposzok
-    9, Mondatszerkesztés
+    9. Mondatszerkesztés
         (pl. a rövid mondatok a zaklatottságot és a dinamikusságot erősítik)
-    10, A mű mondanivalója és hatása az olvasóra
+    10. A mű mondanivalója és hatása az olvasóra
 
 ---
 
